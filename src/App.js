@@ -3,7 +3,7 @@ import './App.css'
 import SearchIcon from './search.svg'
 import MovieCard from './MovieCard'
 
-const API_URL = 'http://www.omdbapi.com?apikey=39dbe762'
+const API_URL = 'https://www.omdbapi.com?apikey=39dbe762'
 
 const App = () => {
   const [movies, setMovies] = useState([])
@@ -51,7 +51,7 @@ const App = () => {
           })}
         </div>
       ) : (
-        <div className='empty'>
+        <div>
           <h2>No movies found</h2>
         </div>
       )}
