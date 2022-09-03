@@ -44,7 +44,7 @@ const App = () => {
           onClick={() => searchMovies(searchTerm)}
         />
       </div>
-      {movies.length > 0 ? (
+      {movies?.length > 0 ? (
         <div className='container'>
           {movies.map((movie, index) => {
             return <MovieCard movie={movie} key={index} />
@@ -52,7 +52,7 @@ const App = () => {
         </div>
       ) : (
         <div className='empty'>
-          <h2>No movies found</h2>
+          <h2>No Movies Found</h2>
         </div>
       )}
     </div>
