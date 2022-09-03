@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MovieBazaar/static/css/main.334bdeb1.css",
-    "main.js": "/MovieBazaar/static/js/main.846223b3.js",
+    "main.js": "/MovieBazaar/static/js/main.3288dce5.js",
     "index.html": "/MovieBazaar/index.html",
     "static/media/search.svg": "/MovieBazaar/static/media/search.31af2ca60b52bacf7819035e043ace7a.svg",
     "main.334bdeb1.css.map": "/MovieBazaar/static/css/main.334bdeb1.css.map",
-    "main.846223b3.js.map": "/MovieBazaar/static/js/main.846223b3.js.map"
+    "main.3288dce5.js.map": "/MovieBazaar/static/js/main.3288dce5.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.846223b3.js"
+    "static/js/main.3288dce5.js"
   ]
 }
