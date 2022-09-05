@@ -7,6 +7,8 @@ We fetch movies data from a external API and we get this api key from OMDB API.c
 In this project i implementd a simple search functionality.Using the search bar you can search
 and see the Movies by typing in the search bar and clicking on the search icon.
 
+I used github pages for hosting the app.
+
 you can see the demo by clicking the link here.
 
 https://rajasekhar342.github.io/MovieBazaar/
